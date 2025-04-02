@@ -103,7 +103,7 @@ _Note: The project shows clear error handling when keys aren't set up._
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/forex-tools.git
+   git clone [https://github.com/your-username/forex-tools.git](https://github.com/uxengineer-pizzi/fx-tools-project)
    cd forex-tools
    ```
 
